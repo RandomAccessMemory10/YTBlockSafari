@@ -23,8 +23,8 @@ Done!
 
 ### 2. Build using Terminal (Requires Xcode)
 
-`git clone https://github.com/RandomAccessMemory10/YTBlockSafari.git --branch source`
+`git clone https://github.com/RandomAccessMemory10/YTBlockSafari.git --branch source YTBlockSafari-source`
 
-`xcrun safari-web-extension-converter YTBlockSafari`
+`xcrun safari-web-extension-converter YTBlockSafari-source`
 
 Xcode will then launch a project. Click run (⌘R), then go into Safari preferences and enable the extension.
