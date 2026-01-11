@@ -3,7 +3,7 @@ Finally, a YouTube adblocker for Safari on Mac. Very basic.
 ## Installation Instructions
 ### 1. Build Manually
 
-Download the repository as a zip file.
+Download YTBlockSafari.zip
 
 Extract the zip file into any desired folder.
 
