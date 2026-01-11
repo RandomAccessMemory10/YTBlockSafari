@@ -23,7 +23,7 @@ Done!
 
 ### 2. Build using Terminal (Requires Xcode)
 
-`git clone https://github.com/RandomAccessMemory10/YTBlockSafari.git`
+`git clone https://github.com/RandomAccessMemory10/YTBlockSafari.git --branch source`
 
 `xcrun safari-web-extension-converter YTBlockSafari`
 
