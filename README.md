@@ -1,7 +1,7 @@
 # YTBlockSafari
 Finally, a YouTube adblocker for Safari on Mac. Very basic, open source and unsigned.
 ## Installation Instructions
-### 1. Build Manually
+### 1. Install the prebuilt .app package
 
 Download YTBlockSafari.zip
 
@@ -21,7 +21,7 @@ Done!
 
 
 
-### 2. Build using Terminal (Requires Xcode)
+### 2. Build from source using Terminal (Requires Xcode)
 
 `git clone https://github.com/RandomAccessMemory10/YTBlockSafari.git --branch source YTBlockSafari-source`
 
